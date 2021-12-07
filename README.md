@@ -27,7 +27,7 @@ Application displays:
 
 Try it here!
 
-<a href="https://workworkout.herokuapp.com/?id=6196dfb8370ad00016902fe7/">Deployed App</a>
+<a href="https://techblogtalk.herokuapp.com/login">Deployed App</a>
 
 ---
 
